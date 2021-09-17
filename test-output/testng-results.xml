@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-17T18:18:14Z" name="Default suite" finished-at="2021-09-17T18:18:43Z" duration-ms="28629">
+    <groups>
+    </groups>
+    <test started-at="2021-09-17T18:18:14Z" name="Default test" finished-at="2021-09-17T18:18:43Z" duration-ms="28629">
+      <class name="com.selenium2.test2.nykaademotest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.selenium2.test2.nykaademotest@48793bef]" started-at="2021-09-17T18:18:14Z" name="beforeTest" finished-at="2021-09-17T18:18:20Z" duration-ms="5711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="testJbkTitle()[pri:0, instance:com.selenium2.test2.nykaademotest@48793bef]" started-at="2021-09-17T18:18:20Z" name="testJbkTitle" finished-at="2021-09-17T18:18:25Z" duration-ms="4607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitle -->
+        <test-method signature="testJbkTitleInvalid()[pri:1, instance:com.selenium2.test2.nykaademotest@48793bef]" started-at="2021-09-17T18:18:25Z" name="testJbkTitleInvalid" finished-at="2021-09-17T18:18:29Z" duration-ms="3974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitleInvalid -->
+        <test-method signature="testJbkTitlescroll()[pri:2, instance:com.selenium2.test2.nykaademotest@48793bef]" started-at="2021-09-17T18:18:29Z" name="testJbkTitlescroll" finished-at="2021-09-17T18:18:35Z" duration-ms="6047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitlescroll -->
+        <test-method signature="testJbkTitlesubmit()[pri:2, instance:com.selenium2.test2.nykaademotest@48793bef]" started-at="2021-09-17T18:18:35Z" name="testJbkTitlesubmit" finished-at="2021-09-17T18:18:42Z" duration-ms="7546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitlesubmit -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.selenium2.test2.nykaademotest@48793bef]" started-at="2021-09-17T18:18:42Z" name="afterTest" finished-at="2021-09-17T18:18:43Z" duration-ms="695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.selenium2.test2.nykaademotest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
